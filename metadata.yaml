@@ -1,0 +1,50 @@
+_repo: An-Englishman-Looks-at-the-World--13-Being-a-Series-of-Unrestrained-Remarks-upon-Contemporary__11502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "An Englishman Looks at the World is a 1914 essay collection by H. G.\
+  \ Wells containing journalistic pieces written between 1909 and 1914. The book consists\
+  \ of twenty-six pieces ranging from five to sixty-two pages in length. An American\
+  \ edition was published the same year by Harper and Brothers under the title Social\
+  \ Forces in England and America.\nWells organized the essays thematically, inserting\
+  \ a fanciful \"synopsis\" after the table of contents conveying his view that the\
+  \ book constituted an argument: \"Blériot arrives and sets him thinking. (1) He\
+  \ flies, (2) and deduces certain consequences of cheap travel. (3) He considers\
+  \ the King, and speculates on the New Epoch; (4) he thinks Imperially, (5) and then,\
+  \ coming to details, about Labour, (6) Socialism, (7) and Modern Warfare. (8) He\
+  \ discourses on the Modern Novel, (9) and the Public Library; (10) criticises Chesterton,\
+  \ Belloc, (11) and Sir Thomas More, (12) and deals with the London Traffic Problem\
+  \ as a Socialist should. (13) He doubts the existence of Sociology, (14) discusses\
+  \ Divorce, (15) Schoolmasters, (16) Motherhood, (17) Doctors, (18) and Specialisation;\
+  \ (19) questions if there is a People, (20) and diagnoses the Political Disease\
+  \ of Our Times. (21) He then speculates upon the future of the American Population,\
+  \ (22) considers a possible set-back to civilisation, (23) the Ideal Citizen, (24)\
+  \ the still undeveloped possibilities of Science, (25), and—in the broadest spirit—the\
+  \ Human Adventure. (26)\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11502'
+  wikidata: Q4749912
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social conditions'
+- !lcsh 'United States -- Social conditions'
+- !lcsh 'Social problems'
+- GITenberg
+title: "An Englishman Looks at the World\r\nBeing a Series of Unrestrained Remarks\
+  \ upon Contemporary Matters"
+url: http://www.gutenberg.org/ebooks/11502
+wikipedia:
+- https://en.wikipedia.org/wiki/An_Englishman_Looks_at_the_World
