@@ -1,5 +1,8 @@
 _repo: An-Englishman-Looks-at-the-World--13-Being-a-Series-of-Unrestrained-Remarks-upon-Contemporary__11502
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -28,6 +31,8 @@ description: "An Englishman Looks at the World is a 1914 essay collection by H. 
   \ (22) considers a possible set-back to civilisation, (23) the Ideal Citizen, (24)\
   \ the still undeveloped possibilities of Science, (25), and—in the broadest spirit—the\
   \ Human Adventure. (26)\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11502#An-Englishman-Looks-at-the-World--13-Being-a-Series-of-Unrestrained-Remarks-upon-Contemporary_
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
